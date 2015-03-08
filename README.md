@@ -1,4 +1,4 @@
-# Services & Tools For Creating Awesome Development Projects
+# Services & Tools For Creating Awesome Software
 
 A collection of tools, services and software to build solid software.
 
