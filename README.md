@@ -11,7 +11,7 @@ Sharing, suggestions and contributions are always welcome!
 ## PaaS (Platform as a Service)
 
 * [Amazon EC2]
-* [Heroku]
+* [Heroku](http://heroku.com/) - Focus on the app, everything you need to build run and scale
 
 ## DB
 
@@ -28,7 +28,7 @@ Sharing, suggestions and contributions are always welcome!
 
 ## Monitoring
 
-* New Relic
+* [New Relic](http://newrelic.com/) - Application Performance Management & Monitoring
 
 ## Code Coverage
 
@@ -37,8 +37,9 @@ Sharing, suggestions and contributions are always welcome!
 ## CI/CD (Continuas Integration / Delivery / Deployment)
 
 * Jenkins
-* TravisCI
+* [Travis CI](https://travis-ci.org) - Free Hosted Continuous Integration Platform for the Open Source Community
 * GOCD
+* [CodeShip](https://codeship.com/) - Release more frequently, build the product your users need and let us take care of the testing and deployment process
 
 ## Payment
 
@@ -56,10 +57,14 @@ Sharing, suggestions and contributions are always welcome!
 
 ## Coding standards
 
-## Project Management Best practices
+## Best practices
 
-* [12 factor](http://12factor.net/)
+* [12 factor](http://12factor.net/) - The twelve-factor app is a methodology for building software-as-a-service apps
+* 
+
+## Project Management
 * [JIRA]
+* [Waffle](https://waffle.io/) - Waffle creates a full project management solution from your existing GitHub Issues
 
 ## Deployment Tools
 
@@ -83,6 +88,21 @@ Sharing, suggestions and contributions are always welcome!
 * Docker
 * Vagrant
 * [VVV](https://github.com/Varying-Vagrant-Vagrants/VVV) - an environment ideal for developing themes and plugins as well as for contributing to WordPress core.
+
+## SCM
+
+* [Github](https://github.com) - 
+* [Bitbucket]() - 
+* [GitLab]() - 
+
+## CDN
+
+* [Cloud Flare](https://www.cloudflare.com)
+* 
+
+## Performance
+
+* [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo) - An awesome curated list of WPO
 
 # Other Awesome Lists
 
