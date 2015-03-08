@@ -46,6 +46,8 @@ Sharing, suggestions and contributions are always welcome!
 
 ## Integration Testing Frameworks
 
+* [appium](https://github.com/appium/appium) -  Automation for iOS and Android Apps
+
 ## Unit Testing
 
 ## Code Review
@@ -57,6 +59,7 @@ Sharing, suggestions and contributions are always welcome!
 ## Project Management Best practices
 
 * [12 factor](http://12factor.net/)
+* [JIRA]
 
 ## Deployment Tools
 
@@ -67,7 +70,7 @@ Sharing, suggestions and contributions are always welcome!
 ## Server configuration Tools
 
 * Puppet
-* Ansimble
+* Ansible
 
 ## SEO
 
