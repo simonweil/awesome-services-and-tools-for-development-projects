@@ -53,6 +53,8 @@ Sharing, suggestions and contributions are always welcome!
 
 ## Code Review
 
+* [Review Ninja](http://www.review.ninja/) - ReviewNinja is a code review tool for GitHub that lets you merge pull requests with confidence
+
 ## Code Linters & Static Analizyers
 
 ## Coding standards
