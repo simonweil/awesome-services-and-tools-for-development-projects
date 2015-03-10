@@ -78,6 +78,7 @@ Sharing, suggestions and contributions are always welcome!
 
 * Puppet
 * Ansible
+* [terraform](https://github.com/hashicorp/terraform) - a tool for building, changing, and combining infrastructure safely and efficiently
 
 ## SEO
 
