@@ -54,6 +54,8 @@ Sharing, suggestions and contributions are always welcome!
 ## Code Review
 
 * [Review Ninja](http://www.review.ninja/) - ReviewNinja is a code review tool for GitHub that lets you merge pull requests with confidence
+* [Gerrit](https://code.google.com/p/gerrit/) - Web based code review and project management for Git based projects
+  * [GerritHub](http://gerrithub.io/) - Gerrit Code Review with GitHub repositories
 
 ## Code Linters & Static Analizyers
 
