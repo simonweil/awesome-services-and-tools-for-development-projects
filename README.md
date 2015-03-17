@@ -45,11 +45,10 @@ Sharing, suggestions and contributions are always welcome!
 
 * Recurly
 
-## Integration Testing Frameworks
+## Integration Testing & Automation
 
 * [appium](https://github.com/appium/appium) -  Automation for iOS and Android Apps
-
-## Unit Testing
+* [xip.io](http://xip.io/) - wildcard DNS for everyone
 
 ## Code Review
 
