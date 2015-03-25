@@ -116,6 +116,11 @@ Sharing, suggestions and contributions are always welcome!
 
 * [WikiMedia]() - 
 * [ReadMe.io]() - 
+ 
+## Marketing
+
+* Articles:
+  * [Community Building Guide](http://www.communitybuildingguide.com/) - A free guild to building awesome communities
 
 # Other Awesome Lists
 
