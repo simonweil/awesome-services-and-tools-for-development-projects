@@ -24,7 +24,7 @@ Sharing, suggestions and contributions are always welcome!
 
 ## Exception Monitoring
 
-* Get Sentry
+* [Sentry](https://getsentry.com/welcome/) -  Sentry is a realtime, platform-agnostic error logging and aggregation platform ([GitHub](https://github.com/getsentry/sentry))
 
 ## Monitoring
 
