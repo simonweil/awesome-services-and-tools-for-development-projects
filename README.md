@@ -111,12 +111,24 @@ Sharing, suggestions and contributions are always welcome!
 ## Collaboration
 
 * [DaPulse]() - 
+* [Slack](https://slack.com/) - Slack is a platform for team communication: everything in one place, instantly searchable, available wherever you go.
 
 ## Documentation
 
 * [WikiMedia]() - 
 * [ReadMe.io]() - 
- 
+
+## WebPages
+
+* [WordPress](https://wordpress.org/) - WordPress is web software you can use to create a beautiful website or blog
+* [StatusPage](https://www.statuspage.io/) -  The best way to create a status page for your app or website.
+
+## Prototyping
+
+* [Pixate](http://www.pixate.com/) - Pixate empowers you to create sophisticated animations and interactions that come to life through 100% real, native iOS and Android prototypes—from design to prototype, without the code.
+* [Marvel](https://marvelapp.com/) - Marvel is the easiest way to turn your sketches, images and mockups into realistic mobile and web prototypes.
+* [Flinto](https://www.flinto.com) - iOS and Android prototypes made from your existing screen designs.
+
 ## Marketing
 
 * Articles:
